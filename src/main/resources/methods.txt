@@ -1,0 +1,116 @@
+#
+# Doubles
+#
+Plain Bob|P|5|&5.1.5.1.5|12|14|
+Reverse Canterbury Pleasure Bob|P|5|&345.1.5.1.5|12|14||
+St Simon's Bob|P|5|&5.1.5.3.5|12|14||
+St Martin's Bob|P|5|&5.1.5.123.5|12|14||
+St Nicholas Bob|P|5|&345.1.5.3.5|12|14||
+Winchendon Place Bob|P|5|&345.1.5.123.5|12|14||
+Grandsire|P|5|+3.1.5.1.5.1.5.1.5|1|3.1|3.123|3
+Stedman|O|5|Quick Six=+5.1.3.1.3,Slow Six=+5.3.1.3.1|1,3||145.3.1,345.1.3|1|4
+Erin|O|5|+5.3.1.3.1|3||345.1.3|5
+
+#
+# Minor
+#
+Little Bob|P|6|&x16x14|12|14|1234
+Plain Bob|P|6|&x16x16x16|12|14|1234
+Double Court Bob|P|6|&x14x36x16|16|14|1456
+St Clement's College Bob|P|6|&x16x36x36|12|14|1234
+Double Oxford Bob|P|6|&x14x36x56|12|14|1234
+Kent|T|6|&34x34.16x12x16x12x16|16|14|1456
+Oxford|T|6|&x34x16x12x16x12x16|16|14|1456
+Carlisle|S|6|&34x36.14x12x36x14x56|12|14|1234
+Westminster|S|6|&x34x14x12x36x12x36|12|14|1234
+York|S|6|&x36x14x12x36.14x14.36|12|14|1234
+Durham|S|6|&x36x14x12x36.14x34.16|12|14|1234
+Beverley|S|6|&x36x14x12x36.14x34.56|12|14|1234
+Surfleet|S|6|&x36x14x12x36.14x12.56|12|14|1234
+Cambridge|S|6|&x36x14x12x36x14x56|12|14|1234
+Ipswich|S|6|&x36x14x12x36x14x16|12|14|1234
+London|S|6|&36x36.14x12x36.14x14.36|12|14|1234
+Wells|S|6|&36x36.14x12x36.14x34.16|12|14|1234
+Canterbury|S|6|&34x36.14x12x36.14x14.36|16|14|1456
+Morpeth|S|6|&34x36.14x12x36.14x34.16|16|14|1456
+Norwich|S|6|&x34x14x12x36x34x16|16|14|1456
+College Bob|P|6|&x16x36x36|16|14|1456
+London Scholars|T|6|x34x16x12x16x34x56|16|14|1456
+KentOxford|T|6|+34x34.16x12x16x12x16x12x16x12x16x34x|16|14|1456
+OxfordKent|T|6|+x34x16x12x16x12x16x12x16x12x16.34x34|16|14|1456
+
+#
+# Triples
+#
+Plain Bob|P|7|&7.1.7.1.7.1.7|12|14|1234|2|0|W=M,M=W
+Grandsire|P|7|+3.1.7.1.7.1.7.1.7.1.7.1.7|1|3.1|3.123|3
+Oxford Bob|P|7|+3.1.5.1.7.1.7.1.7.1.7.1.5|1|3.1|3.123|3
+Stedman|O|7|Quick Six=+7.1.3.1.3,Slow Six=+7.3.1.3.1|1,3|5.1.3.1.3.1,5.3.1.3.1.3|567.1.3.1.3.1,567.3.1.3.1.3|7|4
+Erin|O|7|+7.3.1.3.1|3|5.3.1.3.1.3|567.3.1.3.1.3|7
+
+#
+# Major
+#
+Little Bob|P|8|&x18x14|12|14|1234
+Plain Bob|P|8|&x18x18x18x18|12|14|1234
+Double Norwich Court Bob|P|8|&x14x36x58x18|18|16|1678
+Kent|T|8|&34x34.18x12x18x12x18x12x18|18|14
+Oxford|T|8|&x34x18x12x18x12x18x12x18|18|14
+Cambridge|S|8|&x38x14x1258x36x14x58x16x78|12|14|1234
+Yorkshire|S|8|&x38x14x58x16x12x38x14x78|12|14|1234
+Lincolnshire|S|8|&x38x14x58x16x14x58x36x78|12|14|1234
+Superlative|S|8|&x36x14x58x36x14x58x36x78|12|14|1234
+Pudsey|S|8|&x58x16x12x38x14x58x16x78|12|14|1234
+Rutland|S|8|&x38x14x58x16x14x38x34x18|12|14|1234|2
+London|S|8|&38x38.14x12x38.14x14.58.16x16.58|12|14|1234
+Bristol|S|8|&x58x14.58x58.36.14x14.58x14x18|18|14|1234
+Belfast|S|8|&34x58.14x12x38.12x14.38.16x12.38|18|14
+Glasgow_4blh|S|8|&36x56.14.58x58.36x14x38.16x16.38|18|14|1234
+Glasgow_6blh|S|8|&36x56.14.58x58.36x14x38.16x16.38|18|16|1678
+
+#
+# Caters
+#
+Plain Bob|P|9|&9.1.9.1.9.1.9.1.9|12|14|1234|2|0|W=M,M=W
+Grandsire|P|9|+3.1.9.1.9.1.9.1.9.1.9.1.9.1.9.1.9|1|3.1|3.123|3
+Stedman|O|9|Quick Six=+9.1.3.1.3,Slow Six=+9.3.1.3.1|1,3|7.1.3.1.3.1,7.3.1.3.1.3|789.1.3.1.3.1,789.3.1.3.1.3|9|4
+Erin|O|9|+9.3.1.3.1|3|7.3.1.3.1.3|789.3.1.3.1.3|9
+
+#
+# Royal
+#
+Plain Bob|P|10|&x10x10x10x10x10|12|14|1234
+Little Bob|P|10|&x0x14|12|14|1234
+Kent|T|10|&34x34.10x12x10x12x10x12x10x12x10|10|14
+Cambridge|S|10|&x30x14x1250x36x1470x58x16x70x18x90|12|14|1234
+Yorkshire|S|10|&x30x14x50x16x1270x38x14x50x16x90|12|14|1234
+London (No.3)|S|10|&30x30.14x12x30.14x14.50.16x16.70.14.58.14.90|12|14|1234
+Bristol|S|10|&x50x14.50x50.36.14x70.58.16x16.70x16x10|10|14|1234
+Bristol_8blh|S|10|&x50x14.50x50.36.14x70.58.16x16.70x16x10|10|18|1890
+
+#
+# Cinques
+#
+Plain Bob|P|11|&E.1.E.1.E.1.E.1.E.1.E|12|14|1234
+Grandsire|P|11|+3.1.E.1.E.1.E.1.E.1.E.1.E.1.E.1.E.1.E.1.E|1|3.1|3.123|3
+Stedman|O|11|Quick Six=+E.1.3.1.3,Slow Six=+E.3.1.3.1|1,3|9.1.3.1.3.1,9.3.1.3.1.3|90E.1.3.1.3.1,90E.3.1.3.1.3|11|4
+Erin|O|11|+E.3.1.3.1|3|9.3.1.3.1.3|90E.3.1.3.1.3|11
+
+#
+# Maximus
+#
+Plain Bob|P|12|&x1Tx1Tx1Tx1Tx1Tx1T|12|14|1234
+Little Bob|P|12|&xTx14|12|14|1234
+Kent|T|12|&34x34.1Tx12x1Tx12x1Tx12x1Tx12x1Tx12x1T|1T|14
+Cambridge|S|12|&x3Tx14x125Tx36x147Tx58x169Tx70x18x9Tx10xET|12|14|1234
+Yorkshire|S|12|&x3Tx14x5Tx16x127Tx38x149Tx50x16x7Tx18xET|12|14|1234
+Londinium|S|12|&3Tx3T.14x12x3T.14x14.5T.16x16.5T.16x18.9T.8x18.9T|12|14|1234
+Bristol|S|12|&x5Tx14.5Tx5T.36.14x7T.58.16x9T.70.18x18.9Tx18x1T|1T|14|1234
+Bristol_0blh|S|12|&x5Tx14.5Tx5T.36.14x7T.58.16x9T.70.18x18.9Tx18x1T|1T|10|10ET
+Lincolnshire|S|12|&x3Tx14x5Tx16x7Tx18x9Tx10x18x9Tx70xET|12|14|1234
+Lyddington|S|12|&x3Tx14x5Tx16x147Tx38x349Tx30x16x5Tx38x1T|12|14|1234
+Newgate|S|12|&3Tx3T.14x12x3T.14x14.5T.16x16.7T.14.58.14.9T.14x14.9T|12|14|1234
+Prittlewell|S|12|&x5Tx16x7Tx18x129Tx30x14x5Tx16x7Tx18xET|12|14|1234
+Pudsey|S|12|&x5Tx16x127Tx38x149Tx50x16x7Tx18x9Tx10xET|12|14|1234
+Superlative|S|12|&x30x14x5Tx36x1470x58x369Tx70x18x9Tx30xET|12|14|1234
+Wembley|S|12|&x5Tx16x12x36x14x3Tx16x3Tx16x3Tx16x3T|12|14|1234
